@@ -30,6 +30,8 @@ Describe any challenges encountered while building the app.
 
 I had some trouble doing the heterogenous recyclerviews. For some reason at first when I tried to override the getItemViewType function, there was an error. After rewriting it worked fine.
 
+Also I am not sure if if my placeholder is only suppose to appear for a split second.
+
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
