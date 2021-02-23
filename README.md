@@ -28,6 +28,8 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 Describe any challenges encountered while building the app.
 
+I had some trouble understanding what it was asking when the prompt said "automatically plays" like if you wanted the poster to be a video instead for popular movies or something similar. In the end I opted for popular movies to go the details activity and automatically played there. I also had issues trying to implement data view binding as I followed the instructions and was not able to access the binding class.
+
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
